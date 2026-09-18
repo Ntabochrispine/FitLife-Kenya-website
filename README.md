@@ -1,3 +1,9 @@
+# FitLife-Kenya-website
+FitLife Kenya is a fitness and wellness platform that helps people improve their physical health through workout programs, personal training, nutrition guidance, and fitness plans.
+The website was task 3 of the InAmigos 2 weeks internship, whereby we were required to create a complete website using AI tools for any domain (business, NGO, portfolio, education, etc.)
+The main aim was to use any AI website generator to build a website with multiple sections like homepage, about, and services. Focus on structure and idea rather than perfection.
+The main objective of the task was to explore AI-powered website creation and understand its practical use.
+
 # FitLife Kenya — Full-Stack Website
 
 A full-stack fitness and wellness website prototype for the AI website creation assignment.
@@ -74,3 +80,4 @@ This is a student/demo prototype. Before production deployment:
 GitHub Pages only hosts the static frontend; it does not run the Node.js/Express backend. To deploy the full-stack version, host the frontend and backend on a service that supports Node.js (or deploy the backend separately), then configure the frontend API URL accordingly.
 
 For the assignment, the easiest demonstration is to run the full-stack project locally with `npm install` and `npm start`.
+
